@@ -1,0 +1,56 @@
+version control software: git download and install
+repository:github,gitlab,bitbucket
+CI/CD
+
+
+git init
+
+git status  -s
+
+git add file.txt
+git add .
+
+git commit -m "added line1"
+
+git log
+
+git log --oneline
+
+git config --global user.email "actsramana@gmail.com"
+git config --global user.name "venkat"  git config --global user.name "venkat"
+git checkout
+
+git reset comitid
+
+git revert
+
+git reset --hard
+
+git clean -n
+git clean -f
+
+git checkout master
+
+git chechout b1
+
+git branch b1
+
+
+
+
+echo "# gitclass" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/actsramana/gitclass.git
+git push -u origin master
+
+
+
+
+stages
+----
+untrack
+add
+commit
+push

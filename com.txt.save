@@ -1,0 +1,36 @@
+
+
+
+version control software: git download and install
+repository:github,gitlab,bitbucket
+CI/CD
+
+
+git init
+
+git status  -s
+
+git add file.txt
+git add .
+
+git commit -m "added line1"
+
+git log
+
+git log --oneline
+
+git config --global user.email "actsramana@gmail.com"
+git config --global user.name "venkat"  git config --global user.name "venkat"
+git checkout
+
+git revert
+
+
+
+
+stages
+----
+untrack
+add
+commit
+push

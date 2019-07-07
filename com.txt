@@ -38,14 +38,6 @@ git branch b1
 
 
 
-echo "# gitclass" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/actsramana/gitclass.git
-git push -u origin master
-
-
 
 
 stages
